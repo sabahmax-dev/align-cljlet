@@ -11,7 +11,7 @@ See: https://github.com/clojure-emacs/clojure-mode#vertical-alignment
 program exists because I was tired of manually aligning let statements
 in Clojure.  This program is designed to quickly and easily allow
 let-like forms to be aligned.  This is my first emacs lisp program and
-as a result if probably less than optimal.  Feel free to suggest
+as a result is probably less than optimal.  Feel free to suggest
 improvements or send in patches.
 
 This program was inspired by align-let.el although only borrows one
